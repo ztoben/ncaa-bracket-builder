@@ -1,0 +1,8 @@
+.gamePicker {
+  width: 200px;
+  margin: 10px;
+}
+
+.container {
+  z-index: 10;
+}
